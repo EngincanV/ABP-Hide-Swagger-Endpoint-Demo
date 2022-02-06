@@ -1,7 +1,6 @@
 ﻿using System.Linq;
 using Microsoft.OpenApi.Models;
 using Swashbuckle.AspNetCore.SwaggerGen;
-using Volo.Abp.Settings;
 using Volo.Abp.Threading;
 
 namespace SwaggerSettingsDemo.Web.Filters;

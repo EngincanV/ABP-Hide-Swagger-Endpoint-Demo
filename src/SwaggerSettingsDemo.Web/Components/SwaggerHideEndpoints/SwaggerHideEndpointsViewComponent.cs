@@ -3,7 +3,6 @@ using Microsoft.AspNetCore.Mvc;
 using SwaggerSettingsDemo.Web.Models;
 using Volo.Abp.AspNetCore.Mvc;
 using Volo.Abp.AspNetCore.Mvc.UI.Widgets;
-using Volo.Abp.Settings;
 
 namespace SwaggerSettingsDemo.Web.Components.SwaggerHideEndpoints;
 
